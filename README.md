@@ -18,7 +18,6 @@ Tech Stack:
 
    
 2. **Task 2:**
-
 Description: Develop a console-based budget tracker that allows users to manage their expenses and income.
 
 Features:
