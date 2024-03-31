@@ -1,7 +1,7 @@
 # Coding-Raja-Technologies-Internship
 Python-based project developed during my internship, showcasing practical applications and solutions. Includes diverse functionalities and modules designed to solve real-world challenges, demonstrating proficiency in Python programming and problem-solving skills.
 
-1. Task 1: Task 1
+1. **Task 1:**
 
 Description: Develop a command-line to-do list application that allows users to manage tasks.
 
@@ -15,7 +15,9 @@ Features:
 Tech Stack:
 1. Python
 2. File handling or a simple database library
-2. Task 2: Task 2
+
+   
+2. **Task 2:**
 
 Description: Develop a console-based budget tracker that allows users to manage their expenses and income.
 
